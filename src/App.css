@@ -1,0 +1,72 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+p {
+  font-size: 1.3em;
+  line-height: 1.1;
+  padding: 5%;
+}
+
+h3{
+  font-size: 1.3em;
+  color: rgb(139, 139, 209);
+}
+
+h4{
+  font-size: 1.1em;
+  color: gold;
+}
+
+.card-content{
+background-color: rgba(6, 0, 25, 0.569);
+height: 250px;
+width: 600px;
+border: 0.1rem solid gold;
+border-color: gold;
+}
+
+.card-container h3{
+  color: rgb(205, 243, 127);
+  padding: 15%;
+}
+
+.card-container p{
+  color: rgb(205, 243, 127);
+  padding: 5%;
+}
+
+button{
+  background-color: black;
+  color: gold;
+  border: 2px solid gold;
+  border-radius: 5px;
+  padding: 5%;
+  margin: 5%;
+  font-size: 1.1em;
+}
+
+button:hover{
+  background-color: rgba(255, 217, 0, 0.516);
+  color: black;
+}
