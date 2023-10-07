@@ -78,3 +78,7 @@ button:hover{
   justify-content: center;
   padding-top: 40%;
 }
+
+.card-input p{
+  padding: 0%;
+}
