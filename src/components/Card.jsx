@@ -38,6 +38,7 @@ function Card({ leagueChampions }) {
       setCorrectGuesses(correctGuesses + 1); // Increment the counter
     } else {
       setFeedback('Incorrect. Try again.');
+      setCorrectGuesses(0);
     }
   };
 
