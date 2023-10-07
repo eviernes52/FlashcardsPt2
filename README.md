@@ -4,7 +4,7 @@ Submitted by: **Emiliano Viernes**
 
 This web app: **Continued version of Flashcards now with a randomizer button and a level of interactivity via a submission bar**
 
-Time spent: **5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
