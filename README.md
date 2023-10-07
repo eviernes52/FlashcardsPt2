@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of the flash card set:
 
-![]([https://github.com/eviernes52/League-Of-Legends-Heads-Up/blob/main/Recording%202023-09-29%20at%2018.58.53.gif](https://github.com/eviernes52/FlashcardsPt2/blob/main/Recording%202023-10-06%20at%2023.20.31.gif))
+![([https://github.com/eviernes52/League-Of-Legends-Heads-Up/blob/main/Recording%202023-09-29%20at%2018.58.53.gif](https://github.com/eviernes52/FlashcardsPt2/blob/main/Recording%202023-10-06%20at%2023.20.31.gif))](https://github.com/eviernes52/LeagueHeadsUpPt.2/blob/main/Recording%202023-10-06%20at%2023.20.31.gif)]
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
